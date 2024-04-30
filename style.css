@@ -57,14 +57,7 @@ body{
     transform: scale(1.1);
     
 }
-.profile-cover h1{
-    font-size: 30px;
-    white-space:nowrap ;
-    /* margin: 20px 20px; */
-    margin-left: 10px;
-    margin-right: 10px;
 
-}
 
 .path{
 
@@ -73,10 +66,11 @@ body{
 }
 .about p{
     font-size: 18px;
-    text-align: start;
+    text-align: justify;
     margin: 20px ;
-    
     padding: 20px;
+    word-spacing: none;
+
     
 }
 a{
