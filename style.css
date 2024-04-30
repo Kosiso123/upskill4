@@ -59,7 +59,8 @@ body{
 }
 .profile-cover h1{
     font-size: 30px;
-    word-wrap: normal;
+    flex-wrap: nowrap;
+
 }
 
 .path{
@@ -70,8 +71,8 @@ body{
 .about p{
     font-size: 18px;
     text-align: start;
-    margin: 10px;
-    margin-left: 20px;
+    margin: 10px 20px 10px;
+    
     padding: 20px;
     
 }
