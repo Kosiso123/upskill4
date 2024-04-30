@@ -60,6 +60,9 @@ body{
 .profile-cover h1{
     font-size: 30px;
     white-space:nowrap ;
+    /* margin: 20px 20px; */
+    padding-left: 10px;
+    padding-right: 10px;
 
 }
 
