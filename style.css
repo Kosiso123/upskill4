@@ -57,6 +57,10 @@ body{
     transform: scale(1.1);
     
 }
+.profile-cover h1{
+    font-size: 30px;
+    word-wrap: normal;
+}
 
 .path{
 
@@ -67,7 +71,7 @@ body{
     font-size: 18px;
     text-align: start;
     margin: 10px;
-    margin-left: 50px;
+    margin-left: 20px;
     padding: 20px;
     
 }
