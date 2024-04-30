@@ -59,7 +59,7 @@ body{
 }
 .profile-cover h1{
     font-size: 30px;
-    flex-wrap: nowrap;
+    white-space:nowrap ;
 
 }
 
@@ -71,7 +71,7 @@ body{
 .about p{
     font-size: 18px;
     text-align: start;
-    margin: 10px 20px 10px;
+    margin: 20px ;
     
     padding: 20px;
     
